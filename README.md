@@ -2,7 +2,7 @@
 Hbase与springboot的自动配置整合
 
 
-##使用说明
+##  使用 
 ### 1、引入项目依赖：
 
 		<dependency>
