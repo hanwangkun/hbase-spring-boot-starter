@@ -8,7 +8,7 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.reivew.primary</groupId>
+	<groupId>io.github.hanwangkun</groupId>
 	<artifactId>hbase-spring-boot-starter</artifactId>
 	<version>1.0.0</version>
 	<name>hbase-spring-boot-starter</name>
