@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.review.primary.hbase.auto.HbaseAutoConfiguration
