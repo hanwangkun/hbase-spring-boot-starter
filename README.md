@@ -6,7 +6,7 @@ Hbase与springboot的自动配置整合
 ### 1、引入项目依赖：
 
 		<dependency>
-			<groupId>com.reivew.primary</groupId>
+			<groupId>io.github.hanwangkun</groupId>
 			<artifactId>hbase-spring-boot-starter</artifactId>
 			<version>1.0.0</version>
 		</dependency>
